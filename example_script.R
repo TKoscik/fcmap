@@ -3,7 +3,7 @@
 # >> Rscript /full/path/to/script.R
 
 # Setup R Environment ----------------------------------------------------------
-# install fcmap functions
+# check package installations
 if (!("devtools" %in% rownames(installed.packages()))) {
   install.packages("devtools")
 }
