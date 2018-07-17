@@ -14,4 +14,4 @@ Imports:
     dplyr,
     NbClust
 Remotes:
-    github::TKoscik/nifti.io
+    TKoscik/nifti.io
